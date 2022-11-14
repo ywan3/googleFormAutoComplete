@@ -1,0 +1,90 @@
+1668390258718	geckodriver	INFO	Listening on 127.0.0.1:52562
+1668390258834	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52563" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/54/bkyfkwsn6xs751_b7lslwklh0000gn/T/rust_mozprofilecHwIaS"
+2022-11-13 20:44:19.337 plugin-container[62899:1864599] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-13 20:44:19.337 plugin-container[62899:1864599] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1668390259347	Marionette	INFO	Marionette enabled
+2022-11-13 20:44:19.431 plugin-container[62899:1864599] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-13 20:44:19.431 plugin-container[62899:1864599] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-13 20:44:19.431 plugin-container[62899:1864601] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-13 20:44:19.431 plugin-container[62899:1864601] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1668390259534	Marionette	INFO	Listening on port 52638
+Read port: 52638
+WebDriver BiDi listening on ws://127.0.0.1:52563
+1668390259645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/54/bkyfkwsn6xs751_b7lslwklh0000gn/T/rust_mozprofilecHwIaS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52563/devtools/browser/b93a717c-4512-4539-8d1f-5453574a924a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1668390299943	geckodriver	INFO	Listening on 127.0.0.1:52872
+1668390300472	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52873" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/54/bkyfkwsn6xs751_b7lslwklh0000gn/T/rust_mozprofileoJ0bNK"
+2022-11-13 20:45:00.935 plugin-container[62974:1865293] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-13 20:45:00.935 plugin-container[62974:1865293] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-13 20:45:00.938 plugin-container[62974:1865293] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-13 20:45:00.938 plugin-container[62974:1865293] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-13 20:45:00.938 plugin-container[62974:1865301] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-13 20:45:00.938 plugin-container[62974:1865301] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1668390300953	Marionette	INFO	Marionette enabled
+1668390300986	Marionette	INFO	Listening on port 52888
+Read port: 52888
+WebDriver BiDi listening on ws://127.0.0.1:52873
+1668390301139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/54/bkyfkwsn6xs751_b7lslwklh0000gn/T/rust_mozprofileoJ0bNK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52873/devtools/browser/5c66de71-95dc-4c2d-8a99-6a456f0064a6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1668390332010	geckodriver	INFO	Listening on 127.0.0.1:53068
+1668390332538	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53069" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/54/bkyfkwsn6xs751_b7lslwklh0000gn/T/rust_mozprofiledvPyCd"
+2022-11-13 20:45:33.000 plugin-container[63025:1866001] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-13 20:45:33.000 plugin-container[63025:1866001] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-13 20:45:33.003 plugin-container[63025:1866001] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-13 20:45:33.003 plugin-container[63025:1866001] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-13 20:45:33.003 plugin-container[63025:1866010] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-13 20:45:33.003 plugin-container[63025:1866010] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1668390333020	Marionette	INFO	Marionette enabled
+1668390333056	Marionette	INFO	Listening on port 53086
+Read port: 53086
+WebDriver BiDi listening on ws://127.0.0.1:53069
+1668390333231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/54/bkyfkwsn6xs751_b7lslwklh0000gn/T/rust_mozprofiledvPyCd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53069/devtools/browser/38c029ae-ebb3-4c8c-8dd1-d7106635782d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-318575229%3A1668389932759552&continue=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSd-rM6m4dVEwI11kAVilYo7L9iBHyvng42YnHBUfPteC4kUug%2Fviewform%3Fvc%3D0%26c%3D0%26w%3D1%26flr%3D0&followup=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSd-rM6m4dVEwI11kAVilYo7L9iBHyvng42YnHBUfPteC4kUug%2Fviewform%3Fvc%3D0%26c%3D0%26w%3D1%26flr%3D0&ltmpl=forms&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=ARgdvAuVgMwb6zKBlO9cagYZed7ZNx_-puV3BO4mCWXFdxVLiODjUeQ6V6a35P09mJPmb5lyxF-t5w line 589 > injectedScript line 2 > eval line 5746 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-11-14 01:45:36.128 plugin-container[63037:1866321] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-14 01:45:36.128 plugin-container[63037:1866321] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-14 01:45:36.131 plugin-container[63037:1866321] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-14 01:45:36.131 plugin-container[63037:1866321] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-14 01:45:36.131 plugin-container[63037:1866333] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-14 01:45:36.131 plugin-container[63037:1866333] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-318575229%3A1668389932759552&continue=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSd-rM6m4dVEwI11kAVilYo7L9iBHyvng42YnHBUfPteC4kUug%2Fviewform%3Fvc%3D0%26c%3D0%26w%3D1%26flr%3D0&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSd-rM6m4dVEwI11kAVilYo7L9iBHyvng42YnHBUfPteC4kUug%2Fviewform%3Fvc%3D0%26c%3D0%26w%3D1%26flr%3D0&ifkv=ARgdvAtT4xRfh547aYoPRqdZsg-W8IkB5L5ED_WBcd5fhQMi32-SHaIllrnrRT1dnFTWx5OfZ2u9qA&ltmpl=forms&service=wise line 589 > injectedScript line 2 > eval line 285 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1668390491468	geckodriver	INFO	Listening on 127.0.0.1:53838
+1668390491991	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53839" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/54/bkyfkwsn6xs751_b7lslwklh0000gn/T/rust_mozprofilefjhMz3"
+2022-11-13 20:48:12.481 plugin-container[63223:1868469] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-13 20:48:12.481 plugin-container[63223:1868469] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1668390492492	Marionette	INFO	Marionette enabled
+2022-11-13 20:48:12.493 plugin-container[63223:1868469] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-13 20:48:12.493 plugin-container[63223:1868469] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-13 20:48:12.493 plugin-container[63223:1868494] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-13 20:48:12.493 plugin-container[63223:1868494] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1668390492529	Marionette	INFO	Listening on port 53854
+Read port: 53854
+WebDriver BiDi listening on ws://127.0.0.1:53839
+1668390492712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/54/bkyfkwsn6xs751_b7lslwklh0000gn/T/rust_mozprofilefjhMz3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53839/devtools/browser/aa967f62-bd3b-4878-9cf0-e9edd83d295c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-318575229%3A1668389932759552&continue=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSd-rM6m4dVEwI11kAVilYo7L9iBHyvng42YnHBUfPteC4kUug%2Fviewform%3Fvc%3D0%26c%3D0%26w%3D1%26flr%3D0&followup=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSd-rM6m4dVEwI11kAVilYo7L9iBHyvng42YnHBUfPteC4kUug%2Fviewform%3Fvc%3D0%26c%3D0%26w%3D1%26flr%3D0&ltmpl=forms&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=ARgdvAuVgMwb6zKBlO9cagYZed7ZNx_-puV3BO4mCWXFdxVLiODjUeQ6V6a35P09mJPmb5lyxF-t5w line 589 > injectedScript line 2 > eval line 7763 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-11-14 01:48:18.359 plugin-container[63240:1868834] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-14 01:48:18.359 plugin-container[63240:1868834] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-14 01:48:18.365 plugin-container[63240:1868834] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-14 01:48:18.365 plugin-container[63240:1868834] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-14 01:48:18.365 plugin-container[63240:1868829] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-14 01:48:18.366 plugin-container[63240:1868829] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1668390526654	Marionette	INFO	Stopped listening on port 52638
+1668390530651	Marionette	INFO	Stopped listening on port 52888
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668390532391	Marionette	INFO	Stopped listening on port 53086
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668390534226	Marionette	INFO	Stopped listening on port 53854
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
